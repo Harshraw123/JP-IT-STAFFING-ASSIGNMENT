@@ -327,22 +327,6 @@ Things an interviewer might look for — and what this project demonstrates:
 
 ---
 
-## Limitations & Future Scope
-
-**Current limitations:**
-
-- LinkedIn UI selectors may need updates when LinkedIn changes their layout
-- Cannot bypass CAPTCHA or 2FA automatically — requires manual intervention
-- Designed to run **locally** (not suitable for serverless platforms like Vercel)
-- Email extraction depends on recruiters posting emails publicly in post text
-
-**Possible enhancements:**
-
-- [ ] CLI flags for custom search keywords (`--keywords`, `--hours`)
-- [ ] JSON/CSV export of scraped leads before sending
-- [ ] Dry-run mode (`--dry-run`) to preview emails without sending
-- [ ] Cron-based scheduling for daily automated runs
-- [ ] Docker container for consistent deployment on VPS
 
 ---
 
