@@ -1,0 +1,26 @@
+{
+  "name": "linkedin-job-application-automation",
+  "version": "1.0.0",
+  "description": "Automate LinkedIn job post scraping and Gmail application emails",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "HEADLESS=false node src/index.js"
+  },
+  "keywords": [
+    "linkedin",
+    "automation",
+    "nodemailer",
+    "playwright"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.9.16",
+    "playwright": "^1.49.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
