@@ -1,6 +1,6 @@
 # LinkedIn Job Application Automation
 
-> End-to-end Node.js automation that discovers contract Java developer opportunities on LinkedIn and sends personalized application emails — with zero manual copy-paste.
+> End-to-end Node.js automation that discovers targeted job opportunities on LinkedIn and sends personalized application emails — with zero manual copy-paste.
 
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-Browser_Automation-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
